@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: sudipdatta/podinfo
-      tag: dev-ap9egrk4
+      tag: dev-oqhjssun
     replicaCount: 1
     hpa:
       enabled: false
