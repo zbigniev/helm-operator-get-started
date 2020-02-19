@@ -15,6 +15,6 @@ spec:
     ref: master
   values:
     image:
-      repository: stefanprodan/podinfo
-      tag: 0.4.11
+      repository: sudipdatta/podinfo
+      tag: dev-jtc5h1yp
     replicaCount: 3
